@@ -24,4 +24,4 @@
 - ARIMA
 - Prophet
 - Gradient Boosting (XGBoost)
-- LSTM (Long Short-Term Memory)
+  
